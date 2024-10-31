@@ -5,6 +5,7 @@ $sql = "SELECT * FROM post";
 $result = $mysqli->query($sql);
 ?>
 
+<!-- tes -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
